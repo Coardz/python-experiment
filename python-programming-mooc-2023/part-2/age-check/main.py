@@ -1,7 +1,6 @@
 # Write your solution here
 age = int(input("What is your age?"))
 
-// t
 if age > 0 and age < 5:
     print("I suspect you can't write quite yet...")
 elif age > 5:
