@@ -17,6 +17,7 @@ print(A) # output [[1, 2, 45, 4], [1, 2, 45, 4]]
 
 names = ["ben", "boo", "sir", "zed", "bob"] # the index start with 0 so it means the number 1 is equal to 0
 
+
 if "sir" in names: # if "sir" is on array it will follow the statement below will be executed
     print("Success")
     print(f"Theres {len(names)} names in Array") #output [1,2,3,4, 1, 2, 3, 4]
